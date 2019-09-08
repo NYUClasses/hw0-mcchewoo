@@ -9,7 +9,8 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
-
+# My First Github Assignment 
+## Chenyang Li HW0 2019-09-08
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
@@ -18,9 +19,10 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+  * **Chenyang Li**
+2. My Podcast
+  * *Voice of America*
+3. link to Github Repo
+  * [Link to the Github Repo](https://github.com/NYUClasses/hw0-mcchewoo)
 
 Once you are done, commit your changes, and push to GitHub. 
