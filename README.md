@@ -21,7 +21,7 @@ It should look something like this:
 1. Name:
   * **Chenyang Li**
 2. My Podcast
-  * *Voice of America*
+  * *ESPN*
 3. link to Github Repo
   * [Link to the Github Repo](https://github.com/NYUClasses/hw0-mcchewoo)
 
